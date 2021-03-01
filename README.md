@@ -29,7 +29,7 @@
 ## :zap: TECHNOLOGIES
 
 <br>
-
+* Link para Pokedex: https://andre-pokedex-wing-6a06d5.netlify.app/
 ### | Frontend | 
 * HTML5 + CSS3 
 * Javascript 
