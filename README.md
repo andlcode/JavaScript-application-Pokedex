@@ -13,14 +13,14 @@
   <hr>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black);
-![html](https://img.shields.io/badge/-html%20ES6-F7B93E?style=flat-square&logo=html&logoColor=red);
+
 <br>
 <br>
 
 
   
-</div>
 
+<div align ="justify">
 :books: SOBRE
 <br>
 
@@ -33,5 +33,6 @@
 ### | Frontend | 
 * HTML5 + CSS3 
 * Javascript 
-
+</div>
 Projeto criado por mim (André Luiz Duarte Cruz) com amor e :heart: Javascript :heart:
+</div>
