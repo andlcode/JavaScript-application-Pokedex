@@ -26,10 +26,12 @@
 
 <p align="justify">The project was created in order to improve concepts in the Javascript web programming language. It consists of a search API system in a pokedemon using mainly concepts of `Promise, fetch, for`.</p>
 
+* Link para Pokedex: https://andre-pokedex-wing-6a06d5.netlify.app/ <br><br>
+
 ## :zap: TECHNOLOGIES
 
 <br>
-* Link para Pokedex: https://andre-pokedex-wing-6a06d5.netlify.app/ <br><br>
+
 
 ### | Frontend | 
 * HTML5 + CSS3 
